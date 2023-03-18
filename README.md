@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # rutas
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_rutas
+>>>>>>> 26d9fbeffe8462d583b6cdcbba29c4fa53b5257c
