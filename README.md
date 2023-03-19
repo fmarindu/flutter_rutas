@@ -13,12 +13,15 @@ El proyecto se compone de 5 rutas.
 
 ### Home
 
-    Es el dashboard de la aplicación, se imposibilita el retorno a Login y actua como la raíz de la aplicación
+    Es el dashboard de la aplicación, se imposibilita el retorno a Login y 
+    actua como la raíz de la aplicación
 
 ### Universidad->Facultad->Clase
 
-    Siven de ejemplo para determinar el comportamiento de una aplicación con un efoque real. Contexto: La Universidad tiene faculades y las facultades tiene clases
+    Siven de ejemplo para determinar el comportamiento de una aplicación con un efoque real. 
+    Contexto: La Universidad tiene faculades y las facultades tiene clases
 
 #### Clase
 
-    Esta última tiene un comportamiento direfente para ejemplarizar el retorno a la raiz borrando las demás de la pila de rutas.
+    Esta última tiene un comportamiento direfente para ejemplarizar el retorno a la raiz 
+    borrando las demás de la pila de rutas.
